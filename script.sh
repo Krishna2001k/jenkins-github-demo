@@ -1,1 +1,1 @@
-echo "Hello from Jenkins!"
+echo "Updated script - Jenkins Triggered!"
